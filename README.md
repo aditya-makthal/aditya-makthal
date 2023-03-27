@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya-makthal](https://github.com/aditya-makthal)
 
-- 💬 Ask me about **Programming, Web Development & Machine Learninghine**
+- 💬 Ask me about **Programming, Web Development, Cloud Computing & Machine Learning**
 
 - 📫 How to reach me **aditya.makthal@gmail.com**
 

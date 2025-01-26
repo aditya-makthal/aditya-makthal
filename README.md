@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Spring Boot Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya-makthal](https://github.com/aditya-makthal)
 
-- 💬 Ask me about **Programming, Web Development, Cloud Computing & Machine Learning**
+- 💬 Ask me about **Programming, Web Development, Java Programming and Cloud Computing**
 
 - 📫 How to reach me **aditya.makthal@gmail.com**
 
